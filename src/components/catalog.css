@@ -1,0 +1,18 @@
+
+
+.catHeader{
+background-color: rgb(134, 200, 226);
+}
+
+.catHeader h3 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-size:2rem;
+    font-weight:100;
+}
+@media(max-width:320px){
+    .catalog h3{
+        font-size: 25px;
+    }
+}
